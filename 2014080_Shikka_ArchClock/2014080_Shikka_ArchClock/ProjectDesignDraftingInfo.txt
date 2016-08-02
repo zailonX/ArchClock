@@ -1,0 +1,3 @@
+﻿
+*DateTime String: YYYY.DDD.MM.dd.w.HH.mm.ss.msms
+*Average U.S life expectancy: 80 years
